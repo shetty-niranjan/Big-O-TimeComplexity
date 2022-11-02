@@ -1,0 +1,15 @@
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\bin\Debug\net6.0\TimeComplexity.exe
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\bin\Debug\net6.0\TimeComplexity.deps.json
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\bin\Debug\net6.0\TimeComplexity.runtimeconfig.json
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\bin\Debug\net6.0\TimeComplexity.dll
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\bin\Debug\net6.0\TimeComplexity.pdb
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\obj\Debug\net6.0\TimeComplexity.csproj.AssemblyReference.cache
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\obj\Debug\net6.0\TimeComplexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\obj\Debug\net6.0\TimeComplexity.AssemblyInfoInputs.cache
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\obj\Debug\net6.0\TimeComplexity.AssemblyInfo.cs
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\obj\Debug\net6.0\TimeComplexity.csproj.CoreCompileInputs.cache
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\obj\Debug\net6.0\TimeComplexity.dll
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\obj\Debug\net6.0\refint\TimeComplexity.dll
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\obj\Debug\net6.0\TimeComplexity.pdb
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\obj\Debug\net6.0\TimeComplexity.genruntimeconfig.cache
+C:\Technical Materials\Projects\CSharp\Time Complexity\TimeComplexity\obj\Debug\net6.0\ref\TimeComplexity.dll
